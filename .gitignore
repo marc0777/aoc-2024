@@ -1,3 +1,6 @@
 input.txt
 target
 .idea
+venv
+bin
+obj
