@@ -4,3 +4,6 @@ target
 venv
 bin
 obj
+.gradle
+.kotlin
+build
